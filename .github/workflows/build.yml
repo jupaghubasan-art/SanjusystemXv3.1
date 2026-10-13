@@ -1,4 +1,4 @@
-name: Build SanjuSystemX APK
+ name: Build SanjuSystemX APK
 
 "on":
 push:
