@@ -1,8 +1,10 @@
 name: Build SanjuSystemX APK
 
-on:
+"on":
 push:
-branches: [main, master]
+branches:
+- main
+- master
 workflow_dispatch:
 
 permissions:
